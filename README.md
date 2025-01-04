@@ -14,9 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoeCalmes](https://github.com/NoeCalmes)
 
-- 🌐 "I have a portfolio, you can find it at [https://noecalmes.fr](https://noecalmes.fr)"
-
-
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
