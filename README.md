@@ -2,7 +2,7 @@
 <h3 align="center">Développeur d'applications mobiles Flutter (iOS & Android)</h3>
 
 <p align="left">
-<a href="https://github.com/NoeCalmes" target="blank">
+<a href="https://github.com/noecalms" target="blank">
 <img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=github" alt="github"/>
 </a>
 </p>
