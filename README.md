@@ -1,4 +1,4 @@
-<h1 align="center">Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> moi c'est Noé Calmes</h1>
+<h1 align="center">Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> moi c'est Noé </h1>
 <h3 align="center">Développeur d'applications mobiles Flutter (iOS & Android)</h3>
 
 <p align="left">
@@ -13,7 +13,6 @@
 - 🚀 Je transforme des **idées d'applications en produits réels publiés sur les stores**  
 - 👨‍💻 J'ai lancé mes propres applications : **Wake Up Alarme** et **Plouff Habitudes**  
 - 🎓 Bachelor Développeur Full Stack & DevOps – IPSSI  
-- 🌐 Portfolio : https://noecalmes.fr  
 
 ---
 
@@ -68,11 +67,3 @@ Application de suivi d’habitudes permettant de créer et maintenir des routine
 </p>
 
 ---
-
-<h3 align="left">Projets</h3>
-
-Vous pouvez retrouver mes projets et applications ici :  
-👉 https://github.com/NoeCalmes  
-
-Ou voir mon travail et mes offres sur :  
-👉 https://noecalmes.fr
